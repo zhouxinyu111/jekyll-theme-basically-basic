@@ -16,7 +16,7 @@
 lang:  zh-CN
 title: zhouxinyu personal website
 email:
-description:”zhouxinyu personal website“
+description:“zhouxinyu's personal website“
 baseurl: "/jekyll-theme-basically-basic" 
 url: "https://zhou_xin_yu.gitee.io"
 author:
@@ -37,7 +37,7 @@ algolia:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
+# theme: jekyll-theme-basically-basic
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
