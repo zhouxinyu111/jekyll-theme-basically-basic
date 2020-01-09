@@ -1,11 +1,11 @@
 ---
-title: 分类：SVG笔记
+title: SVG笔记
 layout: category 
 permalink: /categories/SVG笔记/
 taxonomy: SVG笔记
 ---
-SVG 意为可缩放矢量图形（Scalable Vector Graphics）。
-SVG 使用 XML 格式定义图像。
+#SVG 意为可缩放矢量图形（Scalable Vector Graphics）。
+#SVG 使用 XML 格式定义图像。
 <!DOCTYPE html>
 <html>
 <body>
