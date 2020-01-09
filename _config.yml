@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang:  zh-CN
-title: Zhouxinyu's Personal Website
+title: Zhouxinyu111's Personal Website
 email:
-description:“Zhouxinyu's Personal Website“
+description:“Zhouxinyu111's Personal Website“
 baseurl: "/jekyll-theme-basically-basic" 
-url: "https://zhouxinyu111.gitee.io"
-author:
-  name:  "zhouxinyu"
+url: "https://zhouxinyu111.github.io"
+author：
+  name:  "zhouxinyu111"
   twitter:
   picture:
 twitter_username:
@@ -38,7 +38,11 @@ algolia:
 # Build settings
 markdown: kramdown
 <<<<<<< HEAD
+<<<<<<< HEAD
 # theme:  jekyll-theme-basically-basic
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 3e95ec67fc7e28e6dbc5ebf7ff7eec6ec822e666
 =======
 theme: jekyll-theme-cayman
 >>>>>>> 3e95ec67fc7e28e6dbc5ebf7ff7eec6ec822e666
