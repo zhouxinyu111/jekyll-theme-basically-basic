@@ -37,15 +37,7 @@ algolia:
 
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
-<<<<<<< HEAD
 # theme:  jekyll-theme-basically-basic
-=======
-theme: jekyll-theme-cayman
->>>>>>> 3e95ec67fc7e28e6dbc5ebf7ff7eec6ec822e666
-=======
-theme: jekyll-theme-cayman
->>>>>>> 3e95ec67fc7e28e6dbc5ebf7ff7eec6ec822e666
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
@@ -86,8 +78,8 @@ exclude:
 defaults:
   # _posts
   - scope:
-      path: "_posts"
-      type: posts
+        path: "_posts"
+        type: posts
     values:
-      layout: post
-      read_time: true
+       layout: post
+       read_time: true
