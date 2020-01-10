@@ -18,14 +18,17 @@ taxonomy: SVG笔记
 </body>
 </html>
 ##运动的线
-<div class="container">
-    <div class="line-wrap">
-        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" class="circle-load-rect-svg" width="300" height="200" viewbox="0 0 600 400">
-            <polyline points="5 5, 575 5, 575 200, 5 200" fill="none" class="g-rect-path"/>
-            <polyline points="5 5, 575 5, 575 200, 5 200" fill="none" class="g-rect-fill"/>
-        </svg>
-    </div>
-</div>
+<!DOCTYPE html>
+<html>
+<body>
+<h1>My second SVG</h1>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" class="circle-load-rect-svg" width="300" height="200" viewbox="0 0 600 400">
+    <polyline points="5 5, 575 5, 575 200, 5 200" class="g-rect-path"/>
+    <polyline points="5 5, 575 5, 575 200, 5 200" class="g-rect-fill"/>
+</svg>
+</body>
+</html>
+ 
 ##位图/点阵图或 光栅图 Bitmap or raster images
 就是最小单位由像素构成的图，只有点的信息。缩放时会失真。每个像素有自己的颜色，
 类似电脑里的图片都是像素图，把它放很大就会看到点变成小色块了。这种格式的图适合存储图形不规则，
